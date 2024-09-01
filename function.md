@@ -1,4 +1,4 @@
-String Modification Methods
+###String Modification Methods###
 #capitalize(): Converts the first character of the string to uppercase.#
 #casefold(): Converts all characters to lowercase, aggressively.
 #center(width, fillchar=' '): Centers the string within a field of #specified width, using a specified fill character (default is a space).
